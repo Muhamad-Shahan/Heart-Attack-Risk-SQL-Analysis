@@ -16,9 +16,7 @@ The SQL scripts in this repository answer the following critical research questi
 3.  **Comorbidity Analysis:** What is the combined effect of having both Diabetes and High Blood Pressure?
 4.  **Geographic Trends:** Which continents show the highest prevalence of cardiovascular issues?
 
-Contributors
+Contributors:
 This project was a collaborative research effort by:
 
-Muhammad Shahan Ibad
-
-Syed Noor Hussain Shah- 
+Muhammad Shahan Ibad & Syed Noor Hussain Shah
